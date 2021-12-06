@@ -6,4 +6,4 @@ The jar `tensorflow-core-platform-0.4.0-SNAPSHOT.jar` was shaded, so they includ
 
 Based on this branch: https://github.com/Craigacp/tensorflow-java/tree/apple-silicon
 
-Built on Macbook Air M5 (2020) on macOS Monterey.
+Built on Macbook Air M1 (2020) on macOS Monterey.
