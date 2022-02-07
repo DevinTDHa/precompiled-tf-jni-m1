@@ -2,7 +2,7 @@
 
 Precompiled and packaged tensorflow for java. 
 
-The jar `tensorflow-core-platform-0.4.0-SNAPSHOT.jar` was shaded, so they include the other dependencies for tensorflow-java.
+The jar [`tensorflow-core-platform-0.4.0-SNAPSHOT.jar`](tensorflow-core-platform-0.4.0-SNAPSHOT.jar) was shaded, so they include the other dependencies for tensorflow-java.
 
 Please run the command `git lfs pull` on this repo to download the rather large jar files.
 
